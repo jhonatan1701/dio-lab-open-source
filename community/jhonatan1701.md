@@ -28,6 +28,9 @@ Estou em transição de carreira, com o objetivo de unir minha bagagem na área 
 ## GitHub Stats 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatan1701&theme=yeblu)  
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=jhonatan1701&theme=yeblu&locale=pt_BR&mode=weekly)](https://streak-stats.demolab.com)
+
+
 [![Jhonatan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jhonatan1701&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
@@ -42,9 +45,9 @@ Estou em transição de carreira, com o objetivo de unir minha bagagem na área 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jhonatan1701&theme=algolia)](https://github.com/jhonatan1701/github-profile-trophy)
 
 ## Projetos
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jhonatan1701&repo=dio-lab-open-source&theme=yeblu)](https://github.com/jhonatan1701/dio-lab-open-source.git)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jhonatan1701&repo=dio-lab-open-source&theme=yeblu&v=1)](https://github.com/jhonatan1701/dio-lab-open-source.git)
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jhonatan1701&repo=trilha-html-modulo-1&theme=yeblu)](https://github.com/jhonatan1701/trilha-html-modulo-1.git)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jhonatan1701&repo=trilha-html-modulo-1&theme=yeblu&v=1)](https://github.com/jhonatan1701/trilha-html-modulo-1.git)
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jhonatan1701&repo=trilha-html-modulo-3&theme=yeblu&v=1)](https://github.com/jhonatan1701/trilha-html-modulo-3.git)
 
